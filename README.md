@@ -1,3 +1,5 @@
+<img src="https://www.holisticon.de/wp-content/uploads/2013/05/holisticon-logo-hamburg.gif" align="right" />
+
 # CMMN Stencils
 
 The goal of this project is to provide CMMN stencils as specified in the [OMG CMMN 1.0](http://www.omg.org/spec/CMMN/1.0/) specification. These stencils can be 
