@@ -14,6 +14,7 @@ used in different modelling or drawing tools in order to foster the modelling wi
   - Milestone
   - Event Listener
   - Criteria: entry and exit
+  - Planing table (non-visualized and visualized)
 
 ## Scalable Vector Graphics
 
