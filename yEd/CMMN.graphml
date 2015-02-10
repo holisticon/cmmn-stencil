@@ -19,7 +19,6 @@
     <node id="n0">
       <data key="d3"><![CDATA[1d23148e-8788-4ed9-95bf-f9d10cc74615]]></data>
       <data key="d4"/>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="841.4041748046875" width="1080.7557373046875" x="0.0" y="30.0"/>
@@ -42,7 +41,6 @@
     <node id="n1">
       <data key="d3"><![CDATA[d0883a40-759f-45de-9ffe-a1be30f2e673]]></data>
       <data key="d4"/>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="355.9821472167969" width="520.447265625" x="0.0" y="901.4041748046875"/>
@@ -59,7 +57,6 @@
     <node id="n2">
       <data key="d3"><![CDATA[600d9dca-b1ca-4eb3-8db2-9b1c5aa85c7d]]></data>
       <data key="d4"/>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="79.17432403564453" width="117.69477844238281" x="550.447265625" y="1039.8080863952637"/>
@@ -76,7 +73,6 @@
     <node id="n3">
       <data key="d3"><![CDATA[143b338d-c85a-4991-a525-cc5e5c485c34]]></data>
       <data key="d4"/>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="51.14386749267578" width="114.78337097167969" x="698.1420440673828" y="1053.823314666748"/>
@@ -93,7 +89,6 @@
     <node id="n4">
       <data key="d3"><![CDATA[c7b93e41-3ad5-4f1d-9ec3-ae91d12ae283]]></data>
       <data key="d4"/>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="55.334693908691406" width="55.472110748291016" x="0.0" y="1437.7098960876465"/>
@@ -110,7 +105,6 @@
     <node id="n5">
       <data key="d3"><![CDATA[a80a6e83-f6e2-46fd-a923-508d1fac2aaa]]></data>
       <data key="d4"/>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="23.954153060913086" width="13.869843482971191" x="85.47211074829102" y="1453.4001665115356"/>
@@ -127,7 +121,6 @@
     <node id="n6">
       <data key="d3"><![CDATA[fa3871c3-dca5-4765-92e7-6b48248830eb]]></data>
       <data key="d4"/>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="23.954153060913086" width="13.869843482971191" x="129.3419542312622" y="1453.4001665115356"/>
@@ -144,7 +137,6 @@
     <node id="n7">
       <data key="d3"><![CDATA[1ce6714e-d35e-4763-9df1-39bb41745971]]></data>
       <data key="d4"/>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="50.15993118286133" width="39.37454605102539" x="173.2117977142334" y="1440.2972774505615"/>
@@ -161,7 +153,6 @@
     <node id="n8">
       <data key="d3"><![CDATA[f17fc9d5-9402-43f8-9b5d-a4943755a602]]></data>
       <data key="d4"/>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="151.08572387695312" width="253.56192016601562" x="242.5863437652588" y="1389.8343811035156"/>
@@ -178,7 +169,6 @@
     <node id="n9">
       <data key="d3"><![CDATA[881925bd-cc77-4228-a43a-dfcbaa9c774d]]></data>
       <data key="d4"/>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="355.9818420410156" width="520.444580078125" x="526.1482639312744" y="1287.3863220214844"/>
@@ -205,6 +195,40 @@
           <y:SVGNodeProperties usingVisualBounds="true"/>
           <y:SVGModel svgBoundsPolicy="0">
             <y:SVGContent refid="11"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n11">
+      <data key="d3"><![CDATA[a0944dc5-a469-43f2-92f1-83efc2f780a9]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="22.762672424316406" width="34.4395751953125" x="147.6947784423828" y="1701.573989868164"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="sandwich" modelPosition="s" textColor="#000000" visible="false" width="61.369140625" x="-13.46478271484375" y="26.762672424316406">Plan Table</y:NodeLabel>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="12"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n12">
+      <data key="d3"><![CDATA[845c31b8-2336-4ba9-b565-5ea77ad59797]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="22.87156105041504" width="34.5445556640625" x="212.1343536376953" y="1701.5195455551147"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="sandwich" modelPosition="s" textColor="#000000" visible="false" width="61.369140625" x="-13.41229248046875" y="26.87156105041504">Plan Table</y:NodeLabel>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="13"/>
           </y:SVGModel>
         </y:SVGNode>
       </data>
@@ -1267,6 +1291,170 @@
        y="54.331486"
        rx="8.5860806"
        ry="7.7049794" /&gt;
+  &lt;/g&gt;
+&lt;/svg&gt;
+</y:Resource>
+      <y:Resource id="12">&lt;?xml version="1.0" encoding="UTF-8" standalone="no"?&gt;
+&lt;!-- Created with Inkscape (http://www.inkscape.org/) --&gt;
+
+&lt;svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1600"
+   height="1200"
+   viewBox="0 0 1600 1200"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="planing-table-nonvisualized.svg"&gt;
+  &lt;defs
+     id="defs4" /&gt;
+  &lt;sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.4"
+     inkscape:cx="108.80585"
+     inkscape:cy="1087.1549"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1150"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"&gt;
+    &lt;sodipodi:guide
+       position="100.0051,1034.3962"
+       orientation="1,0"
+       id="guide4136" /&gt;
+    &lt;sodipodi:guide
+       position="110.40179,1094.5536"
+       orientation="0,1"
+       id="guide4138" /&gt;
+    &lt;sodipodi:guide
+       position="132.41071,1097.3214"
+       orientation="1,0"
+       id="guide4140" /&gt;
+    &lt;sodipodi:guide
+       position="185.86807,1073.7922"
+       orientation="0,1"
+       id="guide4142" /&gt;
+  &lt;/sodipodi:namedview&gt;
+  &lt;metadata
+     id="metadata7"&gt;
+    &lt;rdf:RDF&gt;
+      &lt;cc:Work
+         rdf:about=""&gt;
+        &lt;dc:format&gt;image/svg+xml&lt;/dc:format&gt;
+        &lt;dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /&gt;
+        &lt;dc:title /&gt;
+      &lt;/cc:Work&gt;
+    &lt;/rdf:RDF&gt;
+  &lt;/metadata&gt;
+  &lt;g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,147.63784)"&gt;
+    &lt;path
+       id="rect4145-9"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.89370954;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 111.53715,-26.644388 8.96091,0 0,0.200992 -8.96091,0 z m 4.60677,-4.784481 0.20507,0 0,9.643678 -0.20507,0 z m -16.236564,-0.326676 10.849454,0 0,10.423294 -10.849454,0 z m 10.802094,0.0061 10.99512,0 0,10.411125 -10.99512,0 z m 10.79296,-0.003 10.92228,0 0,10.417198 -10.92228,0 z m -10.73286,-10.448765 10.92227,0 0,10.417199 -10.92227,0 z m 10.73286,-3e-6 10.92228,0 0,10.417198 -10.92228,0 z m -21.62358,7e-6 10.92227,0 0,10.417198 -10.92227,0 z" /&gt;
+  &lt;/g&gt;
+&lt;/svg&gt;
+</y:Resource>
+      <y:Resource id="13">&lt;?xml version="1.0" encoding="UTF-8" standalone="no"?&gt;
+&lt;!-- Created with Inkscape (http://www.inkscape.org/) --&gt;
+
+&lt;svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1600"
+   height="1200"
+   viewBox="0 0 1600 1200"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="planing-table-visualized.svg"&gt;
+  &lt;defs
+     id="defs4" /&gt;
+  &lt;sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="32"
+     inkscape:cx="114.66371"
+     inkscape:cy="1084.8384"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1150"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"&gt;
+    &lt;sodipodi:guide
+       position="100.0051,1034.3962"
+       orientation="1,0"
+       id="guide4136" /&gt;
+    &lt;sodipodi:guide
+       position="110.40179,1094.5536"
+       orientation="0,1"
+       id="guide4138" /&gt;
+    &lt;sodipodi:guide
+       position="132.41071,1097.3214"
+       orientation="1,0"
+       id="guide4140" /&gt;
+    &lt;sodipodi:guide
+       position="185.86807,1073.7922"
+       orientation="0,1"
+       id="guide4142" /&gt;
+  &lt;/sodipodi:namedview&gt;
+  &lt;metadata
+     id="metadata7"&gt;
+    &lt;rdf:RDF&gt;
+      &lt;cc:Work
+         rdf:about=""&gt;
+        &lt;dc:format&gt;image/svg+xml&lt;/dc:format&gt;
+        &lt;dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /&gt;
+        &lt;dc:title /&gt;
+      &lt;/cc:Work&gt;
+    &lt;/rdf:RDF&gt;
+  &lt;/metadata&gt;
+  &lt;g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,147.63784)"&gt;
+    &lt;path
+       id="rect4145"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.99929976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 110.82554,-31.789972 10.79311,0 0,5.357843 -10.79311,0 z m -10.91514,0.03747 10.92227,0 0,10.417198 -10.92227,0 z m 10.79601,0 10.92228,0 0,10.417198 -10.92228,0 z m 10.796,2e-6 10.92228,0 0,10.417198 -10.92228,0 z m -10.66566,-10.455063 10.77208,0 0,10.429797 -10.77208,0 z m 10.66566,0.0063 10.92228,0 0,10.417198 -10.92228,0 z m -21.62297,6.14e-4 10.93684,0 0,10.415981 -10.93684,0 z" /&gt;
   &lt;/g&gt;
 &lt;/svg&gt;
 </y:Resource>
