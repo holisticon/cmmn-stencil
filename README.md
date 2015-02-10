@@ -23,13 +23,14 @@ The basic stencils are Scalable Vector Graphics (SVG) created using [Inkscape](h
  -   plan model shape may contain four stage shapes without zoom
  -   stage shape may contain nine task shapes without zoom 
 
- !(Default Sizing)[svg/size.png]
+![Default Sizing](https://raw.githubusercontent.com/holisticon/cmmn-stencil/master/svg/size.png)
  
 ## yED Palette
 
 [yED](http://www.yworks.com/en/products/yfiles/yed/) is a powerful open-source graph editor, which allows to create beautiful diagrams. It has pre-build palettes for simple UML 2.0 and BPMN 2.0 modelling, which are just enough to create overviews diagrams. If you are interested in creating real models (UML 2, BPMN 2.x or CMMN 1.x) consider use of modelling tools. 
 
-In order to enrich yED with ability to draw CMMN diagrams, a simple CMMN palette has been created. For installation, download the CMMN.graphml file, open yEd, goto *Edit* > *Manage Palette...* > *Import Section...* > and pick the downloaded file.
+In order to enrich yED with ability to draw CMMN diagrams, a simple CMMN palette has been created. For installation, download the [CMMN.graphml](https://raw.githubusercontent.com/holisticon/cmmn-stencil/master/yEd/CMMN.graphml) file, open yEd, goto *Edit* > *Manage Palette...* > *Import Section...* > and pick the downloaded file.
 
-!(yED Palette Installation Steps)[yEd/install-palette.png] 
+![yED Palette Installation Steps](https://raw.githubusercontent.com/holisticon/cmmn-stencil/master/yEd/install-palette.png)
+
 
