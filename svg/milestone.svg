@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg9273"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="milestone.svg">
+  <title
+     id="title9861">Milestone</title>
+  <defs
+     id="defs9275" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="159.1002"
+     inkscape:cy="961.10394"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1150"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="53.790623,1020.5066"
+       orientation="1,0"
+       id="guide9281" />
+    <sodipodi:guide
+       position="26.263966,999.29342"
+       orientation="0,1"
+       id="guide9283" />
+    <sodipodi:guide
+       position="697.00526,1030.8607"
+       orientation="1,0"
+       id="guide9285" />
+    <sodipodi:guide
+       position="159.09903,1021.2642"
+       orientation="1,0"
+       id="guide9287" />
+    <sodipodi:guide
+       position="12.879445,953.33148"
+       orientation="0,1"
+       id="guide9289" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata9278">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Milestone</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 77.529297 53.035156 A 24.024963 22.888542 0 0 0 53.503906 75.923828 A 24.024963 22.888542 0 0 0 77.328125 98.802734 C 77.488089 98.907579 77.65437 98.982422 77.830078 98.982422 L 136.82617 98.982422 C 136.99168 98.982422 137.14907 98.915682 137.30078 98.822266 A 24.024963 22.888542 0 0 0 159.11328 76.048828 A 24.024963 22.888542 0 0 0 137.2832 53.265625 C 137.13675 53.179081 136.98526 53.117188 136.82617 53.117188 L 79.265625 53.117188 A 24.024963 22.888542 0 0 0 77.529297 53.035156 z "
+       id="path9295" />
+  </g>
+</svg>
