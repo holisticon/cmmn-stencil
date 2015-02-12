@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg8698"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="event-listener-timer.svg">
+  <title
+     id="title9863">Event Listner</title>
+  <defs
+     id="defs8700" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="129.27483"
+     inkscape:cy="1028.1463"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1030"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="50,1059.6429"
+       orientation="1,0"
+       id="guide8706" />
+    <sodipodi:guide
+       position="4.0406102,999.92477"
+       orientation="0,1"
+       id="guide8708" />
+    <sodipodi:guide
+       position="696.50019,833.88094"
+       orientation="1,0"
+       id="guide8710" />
+    <sodipodi:guide
+       position="365.67522,771.25148"
+       orientation="0,1"
+       id="guide8712" />
+    <sodipodi:guide
+       position="100.0051,1003.7128"
+       orientation="1,0"
+       id="guide9260" />
+    <sodipodi:guide
+       position="83.337586,950.04849"
+       orientation="0,1"
+       id="guide9262" />
+    <sodipodi:guide
+       position="148.87123,989.94951"
+       orientation="0,1"
+       id="guide4142" />
+    <sodipodi:guide
+       position="166.29636,960.90762"
+       orientation="0,1"
+       id="guide4144" />
+    <sodipodi:guide
+       position="196.159,975.42857"
+       orientation="0,1"
+       id="guide4154" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata8703">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Event Listner</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path9865-2"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stroke-linecap:round"
+       d="M 95.341751,77.437965 A 20.278152,20.225914 0 0 1 75.063599,97.663879 20.278152,20.225914 0 0 1 54.785446,77.437965 20.278152,20.225914 0 0 1 75.063599,57.212051 20.278152,20.225914 0 0 1 95.341751,77.437965 Z m 4.663349,-0.06237 A 25.00255,24.938139 0 0 1 75.002548,102.31373 25.00255,24.938139 0 0 1 49.999998,77.375595 25.00255,24.938139 0 0 1 75.002548,52.437456 25.00255,24.938139 0 0 1 100.0051,77.375595 Z" />
+    <path
+       id="path4166-7-6-5-7"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 87.811466,77.006322 0.74774,-0.0068 0,0 -0.0167,1.53e-4 m -27.45537,0.0089 0.74774,-0.0068 0,0 -0.0167,1.53e-4 m 13.01782,13.127085 0,0.747768 0,0 0,-0.01674 m -0.0114,-27.707592 0,0.747768 0,0 0,-0.01674 m 6.7668,24.452677 0.38012,0.643946 0,0 -0.008,-0.01438 m -13.74889,-23.764795 0.38013,0.643947 0,0 -0.008,-0.01438 m -4.84935,17.840062 -0.64737,0.374252 0,0 0.0145,-0.0084 m 23.9819,-13.877288 -0.64737,0.374251 0,0 0.0145,-0.0084 m -0.20762,13.017941 0.65052,0.368749 0,0 -0.0145,-0.0082 m -23.76528,-13.74806 0.65053,0.36875 0,0 -0.0145,-0.0082 m 4.6891,17.882851 -0.37465,0.647143 0,0 0.008,-0.01449 m 13.87226,-23.984808 -0.37465,0.647144 0,0 0.008,-0.01449 m -6.70322,-1.102166 0,12.437499 10.73287,0 m 3.78808,7e-6 a 14.520945,14.520945 0 0 1 -14.52095,14.520945 14.520945,14.520945 0 0 1 -14.52094,-14.520945 14.520945,14.520945 0 0 1 14.52094,-14.520944 14.520945,14.520945 0 0 1 14.52095,14.520944 z"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
